@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"KEYPAD4X4 KEY PAD",1," Keypad 4x4"
+"UARDUINO BOARD",1," Arduino Uno R3"
+"DLED",1,"Green LED"
+"DLED2",1,"Yellow LED"
+"PIEZO1",1," Piezo"
